@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Prakashtiwari7415/Leetcode_questions/tree/master/0049-group-anagrams) |
 | [0202-happy-number](https://github.com/Prakashtiwari7415/Leetcode_questions/tree/master/0202-happy-number) |
 ## Math
 |  |
@@ -17,4 +18,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Prakashtiwari7415/Leetcode_questions/tree/master/0202-happy-number) |
+## Array
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/Prakashtiwari7415/Leetcode_questions/tree/master/0049-group-anagrams) |
+## String
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/Prakashtiwari7415/Leetcode_questions/tree/master/0049-group-anagrams) |
+## Sorting
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/Prakashtiwari7415/Leetcode_questions/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
