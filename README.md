@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Prakashtiwari7415/Leetcode_questions/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/Prakashtiwari7415/Leetcode_questions/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/Prakashtiwari7415/Leetcode_questions/tree/master/0128-longest-consecutive-sequence) |
 | [0202-happy-number](https://github.com/Prakashtiwari7415/Leetcode_questions/tree/master/0202-happy-number) |
 | [0347-top-k-frequent-elements](https://github.com/Prakashtiwari7415/Leetcode_questions/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Prakashtiwari7415/Leetcode_questions/tree/master/0383-ransom-note) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Prakashtiwari7415/Leetcode_questions/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/Prakashtiwari7415/Leetcode_questions/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/Prakashtiwari7415/Leetcode_questions/tree/master/0128-longest-consecutive-sequence) |
 | [0238-product-of-array-except-self](https://github.com/Prakashtiwari7415/Leetcode_questions/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/Prakashtiwari7415/Leetcode_questions/tree/master/0347-top-k-frequent-elements) |
 ## String
@@ -79,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Prakashtiwari7415/Leetcode_questions/tree/master/0238-product-of-array-except-self) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Prakashtiwari7415/Leetcode_questions/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
