@@ -17,6 +17,7 @@ This is a collection of  importants patterns based questions
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Prakashtiwari7415/Leetcode_questions/tree/master/0202-happy-number) |
+| [0509-fibonacci-number](https://github.com/Prakashtiwari7415/Leetcode_questions/tree/master/0509-fibonacci-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -85,4 +86,16 @@ This is a collection of  importants patterns based questions
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Prakashtiwari7415/Leetcode_questions/tree/master/0128-longest-consecutive-sequence) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Prakashtiwari7415/Leetcode_questions/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Prakashtiwari7415/Leetcode_questions/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Prakashtiwari7415/Leetcode_questions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
