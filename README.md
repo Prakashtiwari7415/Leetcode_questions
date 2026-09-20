@@ -16,6 +16,7 @@ This is a collection of  importants patterns based questions
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Prakashtiwari7415/Leetcode_questions/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Prakashtiwari7415/Leetcode_questions/tree/master/0202-happy-number) |
 | [0509-fibonacci-number](https://github.com/Prakashtiwari7415/Leetcode_questions/tree/master/0509-fibonacci-number) |
 ## Two Pointers
@@ -89,6 +90,7 @@ This is a collection of  importants patterns based questions
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Prakashtiwari7415/Leetcode_questions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Prakashtiwari7415/Leetcode_questions/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -97,5 +99,6 @@ This is a collection of  importants patterns based questions
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Prakashtiwari7415/Leetcode_questions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Prakashtiwari7415/Leetcode_questions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
