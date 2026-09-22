@@ -19,6 +19,7 @@ This is a collection of  importants patterns based questions
 | [0070-climbing-stairs](https://github.com/Prakashtiwari7415/Leetcode_questions/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Prakashtiwari7415/Leetcode_questions/tree/master/0202-happy-number) |
 | [0509-fibonacci-number](https://github.com/Prakashtiwari7415/Leetcode_questions/tree/master/0509-fibonacci-number) |
+| [0973-k-closest-points-to-origin](https://github.com/Prakashtiwari7415/Leetcode_questions/tree/master/0973-k-closest-points-to-origin) |
 ## Two Pointers
 |  |
 | ------- |
@@ -35,6 +36,7 @@ This is a collection of  importants patterns based questions
 | [0128-longest-consecutive-sequence](https://github.com/Prakashtiwari7415/Leetcode_questions/tree/master/0128-longest-consecutive-sequence) |
 | [0238-product-of-array-except-self](https://github.com/Prakashtiwari7415/Leetcode_questions/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/Prakashtiwari7415/Leetcode_questions/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/Prakashtiwari7415/Leetcode_questions/tree/master/0973-k-closest-points-to-origin) |
 ## String
 |  |
 | ------- |
@@ -48,6 +50,7 @@ This is a collection of  importants patterns based questions
 | ------- |
 | [0049-group-anagrams](https://github.com/Prakashtiwari7415/Leetcode_questions/tree/master/0049-group-anagrams) |
 | [0347-top-k-frequent-elements](https://github.com/Prakashtiwari7415/Leetcode_questions/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/Prakashtiwari7415/Leetcode_questions/tree/master/0973-k-closest-points-to-origin) |
 ## Queue
 |  |
 | ------- |
@@ -67,10 +70,12 @@ This is a collection of  importants patterns based questions
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Prakashtiwari7415/Leetcode_questions/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/Prakashtiwari7415/Leetcode_questions/tree/master/0973-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Prakashtiwari7415/Leetcode_questions/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/Prakashtiwari7415/Leetcode_questions/tree/master/0973-k-closest-points-to-origin) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -79,6 +84,7 @@ This is a collection of  importants patterns based questions
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Prakashtiwari7415/Leetcode_questions/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/Prakashtiwari7415/Leetcode_questions/tree/master/0973-k-closest-points-to-origin) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -101,4 +107,12 @@ This is a collection of  importants patterns based questions
 | ------- |
 | [0070-climbing-stairs](https://github.com/Prakashtiwari7415/Leetcode_questions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Prakashtiwari7415/Leetcode_questions/tree/master/0509-fibonacci-number) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Prakashtiwari7415/Leetcode_questions/tree/master/0973-k-closest-points-to-origin) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Prakashtiwari7415/Leetcode_questions/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
